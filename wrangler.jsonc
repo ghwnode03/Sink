@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "wang-sink",
+  "name": "sink",
   "main": "dist/server/index.mjs",
   "assets": {
     "binding": "ASSETS",
